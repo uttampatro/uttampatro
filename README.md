@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- My name is Uttam Patro. 
-- I’m a full stack developer.
+- My name is Uttam Patro. I’m a Full Stack Javascript Developer.
 - Lets connect - uttampatro890@gmail.com | https://www.linkedin.com/in/uttampatro/
