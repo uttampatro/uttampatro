@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Uttam Patro. I’m a full stack MERN developer
+My name is Uttam Patro. I’m a full stack developer.
+I have bachelors degree with Mumbai university in 2021.
