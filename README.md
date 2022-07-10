@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 - My name is Uttam Patro. 
 - I’m a full stack developer.
-- I have bachelors degree with Mumbai university in 2021.
-- Now i am looking for junior/intern level opportunities at a company where I can help build real world applications utilising my skills.
+- Lets connect - uttampatro890@gmail.com | https://www.linkedin.com/in/uttampatro/
